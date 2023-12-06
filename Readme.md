@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Dmitry Prokopenkov](https://up.htmlacademy.ru/ecmascript/22/user/937051).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Гущина](https://htmlacademy.ru/profile/vanastasiya).
 
 ---
 
